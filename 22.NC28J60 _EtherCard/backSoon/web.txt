@@ -1,0 +1,12 @@
+<html>
+  <head><title>
+    Service Temporarily available
+  </title></head>
+  <body>
+    <h3>This service is currently available</h3>
+    <p><em>
+      The main server is currently on-line.<br />
+      [jyoun] Arduino Test server.
+    </em></p>
+  </body>
+</html>
